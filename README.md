@@ -21,3 +21,25 @@ Air Canvas is a Python application that allows you to draw in the air using hand
    ```bash
    git clone https://github.com/sottohy/Air-Canvas.git
    cd air-canvas
+
+2. Install the required packages:
+   ```
+   pip install opencv-python mediapipe numpy
+
+3. Place your header images in a folder named header in the root directory. The images will be used for selecting colors and the eraser.
+
+
+## Usage
+1. Run the application:
+   ```
+   python air_canvas.py
+
+2. The webcam feed will open, and you can start drawing using your hand gestures.
+
+
+## Gestures
+- Drawing: Raise only the index finger.
+- Selecting Colors: Raise both the index and middle fingers and move your hand to the desired color in the header section.
+
+
+

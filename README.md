@@ -46,4 +46,7 @@ Air Canvas is a Python application that allows you to draw in the air using hand
 - Main loop: Captures webcam frames, processes hand landmarks, checks gestures, and updates the canvas accordingly.
 
 
+## Demo
+https://github.com/sottohy/Air-Canvas/assets/91037437/6655ff33-9fc9-49d8-868d-9a2c50485b0f
+
 
